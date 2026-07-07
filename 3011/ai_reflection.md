@@ -27,18 +27,23 @@ Statement	Yes / No / Not Applicable	Short note
 I read the relevant workflow before using AI.
 
 yes
+
 I used instructions/COURSE_AI_INSTRUCTIONS.md, instructions/AGENTS.md, or manually followed the course AI instructions if the tool did not support custom instructions.
 
 yes
+
 I wrote my own problem understanding before asking AI for help.
 
 yes
+
 I wrote my own first plan before asking AI for help.
 
 yes
+
 I used AI as a coach, reviewer, debugger, or test-case helper, not as a full-answer generator.
 
 yes
+
 4. ฉันถาม AI ให้ช่วยอะไร
 
 ฉันให้AI ช่วยตรวจโค้ดของฉัน และช่วยวิเคราะห์ว่า ฉันพลาดจุดไหนไป
@@ -60,7 +65,19 @@ AI ช่วยให้ฉันสังเกตุว่า ถ้าแม�
 เขียน Yes ในแต่ละ statement
 
 Statement	Yes/No
-I wrote this reflection in my own words.	Yes
-This reflection describes my real AI use.	Yes
-I checked AI's suggestions before using them.	Yes
-I can explain my final code.	Yes
+
+I wrote this reflection in my own words.	
+
+Yes
+
+This reflection describes my real AI use.
+
+Yes
+
+I checked AI's suggestions before using them.	
+
+Yes
+
+I can explain my final code.	
+
+Yes
