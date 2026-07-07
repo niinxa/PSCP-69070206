@@ -1,13 +1,13 @@
 """[LEARNING LOGS] Colors"""
 def main():
     """[LEARNING LOGS] Colors"""
-    color1 = input()
-    color2 = input()
-    if color1 in ('Red', 'Yellow') and color2 in ('Red', 'Yellow'):
+    color1 = input().lower()
+    color2 = input().lower()
+    if color1 in ('red', 'yellow') and color2 in ('red', 'yellow'):
         print("Orange")
-    elif color1 in ('Red', 'Blue') and color2 in ('Red', 'Blue'):
+    elif color1 in ('red', 'blue') and color2 in ('red', 'blue'):
         print("Violet")
-    elif color1 in ('Blue', 'Yellow') and color2 in ('Blue', 'Yellow'):
+    elif color1 in ('blue', 'yellow') and color2 in ('blue', 'yellow'):
         print("Green")
     else:
         print("Error")
