@@ -6,7 +6,7 @@ def main():
     money = int(input())
     people = int(input())
     pro = b * money
-    if people % a == 0:
+    if not people % a:
         x = (people // a) * pro
         print(x)
     else:
